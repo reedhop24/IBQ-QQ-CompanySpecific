@@ -1,0 +1,5 @@
+# Company Specific Questions
+
+##### This repository is a bit of functionality that I built for IBQ's Quick Quote platform. Insurance carriers have what are called Company Specific questions, which are questions that are necessary to answer in order to achieve a rate. Therefore I built this API and the functionality on the front end to allow for insurance carriers to add their company specific questions. Essentially we give the insurance carriers admin access so they are able to have to access this API and ultimately upload their spreadsheet to add their questions to our UI. 
+
+##### Note: We ask that all carriers spreadsheets are documented the same. For an example of this see the spreadsheet in the repository. The front end was originally built with jQuery, HTML, and CSS but I rebuilt it in React for a personal project. 
