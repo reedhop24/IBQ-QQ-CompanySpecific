@@ -7,6 +7,17 @@
   pointer-events: none;
 }
 
+.button-forward {
+  padding:10px;
+  width:28%;
+  border-radius:3px;
+  border:1px solid;
+}
+
+.button-forward:hover  {
+  background-color:#e7e7e7
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
